@@ -35,9 +35,8 @@ Example:
 ```bash
 cd 01-Basics
 go run main.go
+```
 
-
----
 
 ## 📚 Resources & Learning Material
 
