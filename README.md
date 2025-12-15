@@ -35,3 +35,28 @@ Example:
 ```bash
 cd 01-Basics
 go run main.go
+
+
+---
+
+## 📚 Resources & Learning Material
+
+Here is a comprehensive list of all the resources I used to master Go. I highly recommend them!
+
+### 🔹 Official Documentation
+* [Go Documentation](https://go.dev/doc/) - The bible of Go.
+* [Go by Example](https://gobyexample.com/) - Great for quick syntax checks.
+
+### 🎥 YouTube Channels / Courses
+* **[اسم القناة]**: [Link to channel] - (e.g., Great for understanding concurrency).
+* **[اسم الكورس]**: [Link to course] - (e.g., Udemy/Coursera course name).
+
+### 📖 Articles & Blogs
+* [Title of an important article you read](Link)
+* [Another helpful blog post](Link)
+
+### 🛠️ Tools
+* [Go Playground](https://go.dev/play/) - Used for testing small snippets.
+
+---
+**Happy Coding! 🚀**
