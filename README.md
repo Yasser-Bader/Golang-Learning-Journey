@@ -23,7 +23,7 @@ I organized the code by topics to make it easy to navigate:
 This list tracks the practical tasks I implement:
 
 - [x] **CLI Calculator**: A simple terminal-based calculator.
-- [ ] **Student Management System**: CRUD operations using Structs and Maps.
+- [x] **Student Management System**: CRUD operations using Structs and Maps.
 - [ ] **Concurrency Web Scraper**: Fetching data from multiple URLs simultaneously.
 - [ ] **REST API To-Do List**: A backend service using `net/http`.
 
