@@ -1,4 +1,3 @@
-// طباعة درجة الحراره المرتفعه فقط
 package main
 
 import "fmt"
