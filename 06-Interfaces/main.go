@@ -13,12 +13,12 @@ type SMSUser struct {
 }
 
 func (e EmailUser) Send(massage string) {
-	fmt.Printf("Sending Email to %v : %v \n ", e.Email, massage)
+	fmt.Printf("Sending Email to %v : %v \n", e.Email, massage)
 
 }
 
 func (s SMSUser) Send(massage string) {
-	fmt.Printf("Sending SMS to %v : %v \n ", s.PhoneNumber, massage)
+	fmt.Printf("Sending SMS to %v : %v \n", s.PhoneNumber, massage)
 
 }
 
@@ -31,8 +31,8 @@ func main() {
 		Email: "yasser@gmail.com",
 	}
 	sms := SMSUser{
-		PhoneNumber: "01000002200",
+		PhoneNumber: "01000000000",
 	}
-	Notify(email, "Hi")
-	Notify(sms, "Welcome")
+	Notify(email, "Welcome")
+	Notify(sms, "OTP: 1234")
 }
