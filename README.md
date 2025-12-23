@@ -23,7 +23,7 @@ I organized the code by topics to make it easy to navigate:
 This list tracks the practical tasks I implement:
 
 - [x] **CLI Calculator**: A simple terminal-based calculator.
-- [x] **Student Management System**: CRUD operations using Structs and Maps.
+- [ ] **Student Management System**: CRUD operations using Structs and Maps.
 - [ ] **Concurrency Web Scraper**: Fetching data from multiple URLs simultaneously.
 - [ ] **REST API To-Do List**: A backend service using `net/http`.
 
@@ -47,19 +47,16 @@ Here is a comprehensive list of all the resources I used to master Go. I highly 
 - [Go Documentation](https://go.dev/doc/) - The bible of Go.
 - [Go by Example](https://gobyexample.com/) - Great for quick syntax checks.
 
-### 🎥 YouTube Channels / Courses
-
-- **[اسم القناة]**: [Link to channel] - (e.g., Great for understanding concurrency).
-- **[اسم الكورس]**: [Link to course] - (e.g., Udemy/Coursera course name).
-
 ### 📖 Articles & Blogs
 
-- [Title of an important article you read](Link)
+- [Golangbot.com ](https://golangbot.com/golang-tutorial-part-1-introduction-and-installation/)
 - [Another helpful blog post](Link)
 
 ### 🛠️ Tools
-
+- VS Code
+- Codespaces
 - [Go Playground](https://go.dev/play/) - Used for testing small snippets.
+- Gemini PRO
 
 ---
 
